@@ -12,7 +12,7 @@ public class Main {
             }
 
         Collections.sort(evenPositiveArray);
-        System.out.printf(evenPositiveArray.toString());
+        System.out.println(evenPositiveArray);
     }
 }
 
